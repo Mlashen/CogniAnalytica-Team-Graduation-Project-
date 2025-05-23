@@ -154,7 +154,3 @@ Graduation Project/
 
 
 
----
-
-Would you like me to generate this as a downloadable `README.md` file?
-```
