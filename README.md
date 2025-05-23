@@ -150,6 +150,10 @@ Graduation Project/
 | Power BI visuals not displaying            | Ensure Power BI Desktop is properly installed and you're opening the `.pbix` file directly                                                            |
 
 ---
+📚 **Project Documentation & User Guide:**  
+Find detailed documentation, setup instructions, and user guide on GitBook:  
+[CogniAnalytica Team Graduation Project Documentation](https://cognianalytica.gitbook.io/cognianalytica-team-graduation-project/)
+
 
 
 
