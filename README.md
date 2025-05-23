@@ -1,5 +1,4 @@
 
-````markdown
 # 🫀 Heart Attack Risk Prediction System — CogniAnalytica
 
 ## 📌 Project Overview
