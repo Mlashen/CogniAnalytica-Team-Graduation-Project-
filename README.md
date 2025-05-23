@@ -12,6 +12,9 @@
 - **Technical Advancement**: Leverage tools like Python, Power BI, and Streamlit for data processing, modeling, and visualization.
 - **Real-world Value**: Deliver a tool that offers actionable insights to assist in early diagnosis and preventive care.
 
+
+###The data used for this project was sourced from Kaggle and is titled Personal Key Indicators of Heart Disease. This dataset contains valuable health information, such as age, sex, cholesterol levels, blood pressure, and other personal health indicators. Size: Approximately 20 MB (this may vary based on the version). The dataset can be accessed directly via this link:https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+Kaggle Dataset 🌐
 ---
 
 ## 💻 Setup Instructions (Windows & macOS)
